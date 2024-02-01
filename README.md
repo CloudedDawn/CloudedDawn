@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/CloudedDawn/CloudedDawn/blob/main/tumblr_ov7siwHIkP1ue08b9o1_500-631507109.gif?raw=true)](https://github.com/CloudedDawn)
+[![MasterChief](https://github.com/CloudedDawn/CloudedDawn/blob/main/still.gif?raw=True)](https://github.com/CloudedDawn)
 ### Hi there 👋
 
 <!--
