@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...Fullstack Development
 - 🤔 I’m looking for help with ...Java
 - 💬 Ask me about ...Python, Linux, Bash, C, C++, Javascript, Anime
-- 📫 How to reach me: ... ywetzmpn@duck.com(I will reply you with some other email address)
+- 📫 How to reach me: ... ywetzmpn@duck.com
 - 😄 Pronouns: ...King/Emperor
 - ⚡ Fun fact: ...My profile photo is Ai Generated
 
