@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on ...Termux
 - 🌱 I’m currently learning ...Tensorflow
-- 👯 I’m looking to collaborate on ...Fullstack Development
+- 👯 I’m looking to collaborate on ...Opensource
 - 🤔 I’m looking for help with ...Java
 - 💬 Ask me about ...Python, Linux, Bash, C, C++, Javascript, Anime
 - 📫 How to reach me: ... ywetzmpn@duck.com
