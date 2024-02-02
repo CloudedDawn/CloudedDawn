@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... ywetzmpn@duck.com
 - 😄 Pronouns: ...King/Emperor
 - ⚡ Fun fact: ...My profile photo is Ai Generated
+- I like Pixel Art
 
  [![GitHub Streak](https://streak-stats.demolab.com?user=CloudedDawn&theme=youtube-dark&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats) ![CloudedDawn's GitHub stats](https://github-readme-stats.vercel.app/api?username=CloudedDawn&show_icons=true&rank_icon=github&theme=ambient_gradient)
