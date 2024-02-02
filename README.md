@@ -1,5 +1,5 @@
 [![MasterChief](https://github.com/CloudedDawn/CloudedDawn/blob/main/still.gif?raw=True)](https://github.com/CloudedDawn)
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&size=50&pause=1000&color=F70000&center=true&random=false&width=600&height=100&lines=%F0%9F%91%8BHello;%F0%9F%8C%8CI+am+The+Clouded+Dawn;%F0%9F%91%A8%E2%80%8D%F0%9F%92%BBI+like+Coding;%F0%9F%92%BBAnd+I+like+open+source;%F0%9F%90%A7And+I+like+Linux)](https://github.com/CloudedDawn)
 
 <!--
 **CloudedDawn/CloudedDawn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
