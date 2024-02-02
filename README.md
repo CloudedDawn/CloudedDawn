@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...Django
 - 💬 Ask me about ...Python, Linux, Bash, C, C++, Javascript, Anime
 - 📫 How to reach me: ... ywetzmpn@duck.com 🪿
-- 😄 Pronouns: ...King/Emperor
+- 😄 Pronouns: ...King/Emperor 👑
 - ⚡ Fun fact: ...My profile photo is Ai Generated
 - 👾 I like Pixel Art
 
