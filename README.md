@@ -11,9 +11,9 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...Opensource
 - 🤔 I’m looking for help with ...Django
 - 💬 Ask me about ...Python, Linux, Bash, C, C++, Javascript, Anime
-- 📫 How to reach me: ... ywetzmpn@duck.com
+- 📫 How to reach me: ... ywetzmpn@duck.com 🪿
 - 😄 Pronouns: ...King/Emperor
 - ⚡ Fun fact: ...My profile photo is Ai Generated
-- I like Pixel Art
+- 👾 I like Pixel Art
 
  [![GitHub Streak](https://streak-stats.demolab.com?user=CloudedDawn&theme=youtube-dark&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats) ![CloudedDawn's GitHub stats](https://github-readme-stats.vercel.app/api?username=CloudedDawn&show_icons=true&rank_icon=github&theme=ambient_gradient)
