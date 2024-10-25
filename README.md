@@ -17,3 +17,8 @@ Here are some ideas to get you started:
 - 👾 I like Pixel Art
 
  [![GitHub Streak](https://streak-stats.demolab.com?user=CloudedDawn&theme=youtube-dark&date_format=n%2Fj%5B%2FY%5D)](https://github.com/CloudedDawn/) [![CloudedDawn's GitHub stats](https://github-readme-stats.vercel.app/api?username=CloudedDawn&show_icons=true&rank_icon=github&theme=ambient_gradient)](https://github.com/CloudedDawn/)
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/CloudedDawn/CloudedDawn/blob/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/CloudedDawn/CloudedDawn/blob/output/github-snake.svg" />
+  <img alt="github-snake" src="https://github.com/CloudedDawn/CloudedDawn/blob/output/github-snake.svg" />
+</picture>
